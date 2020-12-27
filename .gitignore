@@ -1,4 +1,14 @@
-.project
+/target/
 app.log
 app.log.2020-12-22.0.gz
 app.log.2020-12-24.0.gz
+HELP.md
+## removed target/ in order to deploy from docker image
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
