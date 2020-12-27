@@ -11,4 +11,4 @@ HELP.md
 .project
 .settings
 .springBeans
-.sts4-cache
+*.iml
